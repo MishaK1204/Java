@@ -1,4 +1,4 @@
-package com.learning.typeconversion;
+package com.fundamentals.typeconversion;
 
 public class TypeConversion {
     public static void main(String[] args) {
